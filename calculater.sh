@@ -13,3 +13,15 @@ b=20
 c=$(( $a + $b ))
 
 echo $c
+
+
+#addind three number
+#
+#
+
+
+d=30
+c=$(( $a + $b + $d ))
+
+echo $c
+
